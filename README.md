@@ -26,4 +26,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=daophanquochoai&show_icons=true&locale=vi" alt="daophanquochoai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daophanquochoai&" alt="daophanquochoai" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73B18&width=435&lines=H%E1%BB%8Dc+vi%E1%BB%87n+C%C3%B4ng+ngh%E1%BB%87+B%C6%B0u+Ch%C3%ADnh+Vi%E1%BB%85n+Th%C3%B4ng+C%C6%A1+S%E1%BB%9F+H%E1%BB%93+Ch%C3%AD+Minh)](https://git.io/typing-svg)
